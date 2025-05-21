@@ -1,0 +1,17 @@
+{
+  "name": "5-tarea-hacer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Franc Luna",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.6.1",
+    "uuid": "^11.1.0"
+  }
+}
